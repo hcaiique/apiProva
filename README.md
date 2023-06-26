@@ -59,8 +59,15 @@ Se você quiser contribuir para este projeto, siga as etapas abaixo:
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais detalhes.
 
+eu ia utilizar também o. 
+BDD com Cucumber
+eu iria também poderia ter utilizado a abordagem BDD (Behavior-Driven Development) com o Cucumber para escrever os cenários de teste de forma mais legível e próxima à linguagem natural. 
 
+Para utilizar o Cucumber em seu projeto, você pode seguir os seguintes passos:
 
+Adicione as dependências necessárias do Cucumber em seu arquivo pom.xml ou build.gradle, conforme o gerenciador de dependências utilizado em seu projeto.
+
+Crie arquivos de recursos do Cucumber no diretório src/test/resources para definir seus cenários de teste
 
 
 
