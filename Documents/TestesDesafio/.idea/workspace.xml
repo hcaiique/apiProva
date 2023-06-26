@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2703b557-9fe4-454b-9e91-d52352005b6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Rj49gCOQHzC4OaX99tjB4Z7NEF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="TestesDesafio" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apisTestes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestesDesafio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ApisTestes" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.apisTestes" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apisTestes.testCreateProductAndGetProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestesDesafio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ApisTestes" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.apisTestes" />
+      <option name="METHOD_NAME" value="testCreateProductAndGetProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apisTestes.testGetProductsWithToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestesDesafio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ApisTestes" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.apisTestes" />
+      <option name="METHOD_NAME" value="testGetProductsWithToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apisTestes.testGetToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestesDesafio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ApisTestes" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.apisTestes" />
+      <option name="METHOD_NAME" value="testGetToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.apisTestes" />
+        <item itemvalue="JUnit.apisTestes.testCreateProductAndGetProducts" />
+        <item itemvalue="JUnit.apisTestes.testGetProductsWithToken" />
+        <item itemvalue="JUnit.apisTestes.testGetToken" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2703b557-9fe4-454b-9e91-d52352005b6a" name="Default Changelist" comment="" />
+      <created>1687750006323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687750006323</updated>
+      <workItem from="1687750013140" duration="514000" />
+      <workItem from="1687750798171" duration="1750000" />
+      <workItem from="1687752611605" duration="1784000" />
+      <workItem from="1687754484095" duration="488000" />
+      <workItem from="1687755019570" duration="332000" />
+      <workItem from="1687755404066" duration="605000" />
+      <workItem from="1687756188725" duration="1764000" />
+      <workItem from="1687758076467" duration="1756000" />
+      <workItem from="1687759993887" duration="1754000" />
+      <workItem from="1687761873916" duration="579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="253" key="GridCell.Tab.0.bottom" timestamp="1687761432493">
+      <screen x="1360" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="253" key="GridCell.Tab.0.bottom/0.0.1360.728/1360.0.2560.1040@1360.0.2560.1040" timestamp="1687761432493" />
+    <state width="2517" height="253" key="GridCell.Tab.0.center" timestamp="1687761432492">
+      <screen x="1360" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="253" key="GridCell.Tab.0.center/0.0.1360.728/1360.0.2560.1040@1360.0.2560.1040" timestamp="1687761432492" />
+    <state width="2517" height="253" key="GridCell.Tab.0.left" timestamp="1687761432492">
+      <screen x="1360" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="253" key="GridCell.Tab.0.left/0.0.1360.728/1360.0.2560.1040@1360.0.2560.1040" timestamp="1687761432492" />
+    <state width="2517" height="253" key="GridCell.Tab.0.right" timestamp="1687761432493">
+      <screen x="1360" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="253" key="GridCell.Tab.0.right/0.0.1360.728/1360.0.2560.1040@1360.0.2560.1040" timestamp="1687761432493" />
+    <state x="2120" y="94" key="SettingsEditor" timestamp="1687762577174">
+      <screen x="1360" y="0" width="2560" height="1040" />
+    </state>
+    <state x="2120" y="94" key="SettingsEditor/0.0.1360.728/1360.0.2560.1040@1360.0.2560.1040" timestamp="1687762577174" />
+    <state x="2336" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1687761873959">
+      <screen x="1360" y="0" width="2560" height="1040" />
+    </state>
+    <state x="519" y="241" key="com.intellij.ide.util.TipDialog/0.0.1360.728/1360.0.2560.1040@0.0.1360.728" timestamp="1687756189702" />
+    <state x="2336" y="344" key="com.intellij.ide.util.TipDialog/0.0.1360.728/1360.0.2560.1040@1360.0.2560.1040" timestamp="1687761873959" />
+    <state x="2342" y="344" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.2560.1040@1366.0.2560.1040" timestamp="1687750870523" />
+    <state x="2344" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1687752409081">
+      <screen x="1360" y="0" width="2560" height="1040" />
+    </state>
+    <state x="2344" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1360.728/1360.0.2560.1040@1360.0.2560.1040" timestamp="1687752409081" />
+    <state x="2271" y="65" width="737" height="909" key="find.popup" timestamp="1687753377589">
+      <screen x="1360" y="0" width="2560" height="1040" />
+    </state>
+    <state x="2271" y="65" width="737" height="909" key="find.popup/0.0.1360.728/1360.0.2560.1040@1360.0.2560.1040" timestamp="1687753377589" />
+  </component>
+</project>
